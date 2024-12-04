@@ -22,7 +22,7 @@
 
 1. **Склонировать репозиторий:**
    ```bash
-   git clone <https://github.com/Sneguradik/SPBE_Task_1.git
+   git clone https://github.com/Sneguradik/SPBE_Task_1.git
    cd SPBE_Task_1
 2. **Создать виртуальное окружение:**
     ```bash
