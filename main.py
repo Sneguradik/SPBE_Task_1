@@ -30,10 +30,10 @@ async def main(args):
     if not os.path.exists(args.output):
         os.makedirs(args.output)
 
-    if not os.path.exists(os.path.join(args.output, "data")):
+    if not os.path.exists(os.path.join(args.output, "stats")):
         os.makedirs("data/stats")
 
-    if not os.path.exists(os.path.join(args.output, "stats")):
+    if not os.path.exists(os.path.join(args.output, "charts")):
         os.makedirs("data/charts")
 
 
